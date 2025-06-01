@@ -79,6 +79,12 @@ Please open an issue first for feature requests or major changes.
 
 ---
 
+LICENSE
+
+MIT License
+
+---
+
 LIVE DEMO
 
 Coming soon...
