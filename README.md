@@ -61,17 +61,6 @@ Refer to the Google Drive API setup guide for help.
 
 ---
 
-ROADMAP
-
-- [ ] JSON import/export
-- [ ] Custom icons per workflow
-- [ ] Drag-and-drop reordering
-- [ ] Dark mode
-- [ ] Browser extension version
-- [ ] Mobile warning overlay or limited mobile support
-
----
-
 CONTRIBUTING
 
 All contributions are welcome!
